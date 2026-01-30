@@ -1,4 +1,4 @@
-Packet-inspection-kali-homelab
+<img width="1906" height="1036" alt="Screenshot 2026-01-30 113748" src="https://github.com/user-attachments/assets/b9fcd4e9-9064-4c7a-b663-2d1e270710d1" />Packet-inspection-kali-homelab
 <img width="1919" height="1079" alt="Screenshot 2026-01-16 110756" src="https://github.com/user-attachments/assets/a73ba6dd-93d6-4191-aaf8-233395558a82" />
 
 # 🛡️ Project: Network Security Lab & Protocol Analysis
@@ -23,6 +23,11 @@ Using `traceroute google.com`, I mapped the 12+ hops between my local lab and th
 During monitoring, I identified a high-severity risk where a login was performed over an unencrypted HTTP connection. 
 * **Filter Used:** `http.request.method == "POST"`
 * **Impact:** Captured raw credentials (Username/Password) in the packet bytes.
+  <img width="1906" height="1036" alt="Screenshot 2026-01-30 113748" src="https://github.com/user-attachments/assets/03c6ddc7-5484-4c68-9aa6-8b63b05538c6" />
+<img width="1910" height="502" alt="Screenshot 2026-01-30 113954" src="https://github.com/user-attachments/assets/81a6f03c-ca4a-455d-9fc9-e84a14bcebe7" />
+<img width="1283" height="387" alt="Screenshot 2026-01-30 115418" src="https://github.com/user-attachments/assets/21a64f48-f1b6-4426-8058-da7298071f16" />
+
+
 
 > [!IMPORTANT]
 > **View the Full Incident Response Report here:** [Incident_Report_001.md](./Incident_Report_001.md)
