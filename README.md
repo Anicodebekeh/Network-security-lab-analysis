@@ -1,4 +1,3 @@
-<img width="1919" height="1079" alt="Screenshot 2026-01-17 140014" src="https://github.com/user-attachments/assets/68df83fd-eb20-40d5-8209-96a136294d90" /># Network-security-lab-analysis
 Packet-inspection-kali-homela
 
 # 🛡️ Project: Network Security Lab & Protocol Analysis
