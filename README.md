@@ -30,7 +30,7 @@ During monitoring, I identified a high-severity risk where a login was performed
 
 
 > [!IMPORTANT]
-> **View the Full Incident Response Report here:** [Incident_Report_001.md](./Incident_Report_001.md)
+> **View the Full Incident Response Report here:** https://github.com/Anicodebekeh/Incident-Response-Case-Study-network-security-lab-analysis-/tree/main
 
 ## 🛠️ Challenges Overcome
 * **Resolved VirtualBox Path Error:** Fixed `VERR_FILE_NOT_FOUND` by manually re-mapping the .vdi disk path after a directory mismatch.
