@@ -1,4 +1,5 @@
-Packet-inspection-kali-homela
+Packet-inspection-kali-homelab
+<img width="1919" height="1079" alt="Screenshot 2026-01-16 110756" src="https://github.com/user-attachments/assets/a73ba6dd-93d6-4191-aaf8-233395558a82" />
 
 # 🛡️ Project: Network Security Lab & Protocol Analysis
 **Author:** Bekeh Aniekan
